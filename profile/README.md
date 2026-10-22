@@ -1,4 +1,4 @@
-# XxxxxRAdar
+# PTRsquared projects
 
 Radar-producten: tools die openbare informatiestromen volgen, matchen aan een bedrijfsprofiel en dossiers voorbereiden.
 
